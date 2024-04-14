@@ -4,7 +4,7 @@
 
 # 👨🏻‍💻 | Sobre mim
 
-### Me chamo Pedro Acioly, sou Alagoano, apaixonado por matemática, física e tecnologia. Atualmente estudo Desenvolvimento de Software - Full Stack na Cubos Academy
+### Me chamo Pedro Acioly,Desenvolvedor Back-End, sou Alagoano, apaixonado por matemática, física e tecnologia. Atualmente estudo Front-End na Cubos Academy
 
 <br/>
 
